@@ -1,4 +1,4 @@
-# COVID-19-Induced-Pneumonia-Detector
+# COVID-19 Induced Pneumonia Detector
 
 ## Objectives:
 
